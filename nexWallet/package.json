@@ -1,0 +1,26 @@
+{
+  "name": "nexwallet",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
+    "ant-design-vue": "^4.0.0",
+    "axios": "^1.4.0",
+    "chart.js": "^4.3.3",
+    "crypto-js": "^4.1.1",
+    "vue": "^3.2.36",
+    "vue-chartjs": "^5.2.0",
+    "vue-router": "^4.2.4",
+    "xrpl": "^2.10.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "vite": "^4.4.6"
+  }
+}

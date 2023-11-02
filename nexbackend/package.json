@@ -1,0 +1,26 @@
+{
+  "name": "nexbackend",
+  "version": "1.0.0",
+  "description": "This is nexWallet's backend server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --experimental-modules ./src/index.mjs"
+  },
+  "author": "michael",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "connect-mongo": "^5.0.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "mongodb": "^5.7.0",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
