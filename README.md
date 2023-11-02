@@ -1,4 +1,4 @@
-# Welcome nexWallet
+# Welcome to nexWallet
 Harnessing the prowess of the XRP Ledger, our platform uses XRP as the backbone for prompt CBDC transactions.
 
 **Main Objective:** 
